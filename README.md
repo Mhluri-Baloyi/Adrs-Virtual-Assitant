@@ -15,4 +15,4 @@ A responsive chatbot built with HTML, CSS, and JavaScript for interactive user s
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Mhluri-Baloyi/Adrs-Virtual-Assitant.git
